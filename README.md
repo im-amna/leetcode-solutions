@@ -1,10 +1,16 @@
-# LeetCode Solutions
+# LeetCode Warm-up Solutions
 
-This repository contains my LeetCode solutions in C++.
+This repository contains my solutions to the DevWeekends DSA warm-up problems.
 
-## Progress
-- Easy
-- Medium
-- Hard
+## Completed Problems
+- Running Sum of 1D Array
+- Find the Highest Altitude
+- Squares of a Sorted Array
+- Move Zeroes
+- Jewels and Stones
+- Fizz Buzz
+- Valid Anagram
+- Reverse Vowels of a String
+- Valid Palindrome
 
-I am solving problems consistently to improve my Data Structures and Algorithms skills.
+📄 Detailed approaches, time complexity, and space complexity are available in **Warmup_Approaches.md**.
