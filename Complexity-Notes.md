@@ -66,17 +66,6 @@ I first sorted the intervals by their starting point. Then I merged overlapping 
 
 ---
 
-## 7. Find the Difference of Two Arrays
-
-### Why this approach?
-I used two HashSets to quickly check which unique elements exist in one array but not in the other.
-
-### Time Complexity: O(n + m)
-
-### Space Complexity: O(n + m)
-
----
-
 ## 8. Subarray Sum Equals K
 
 ### Why this approach?
@@ -113,6 +102,6 @@ I stored all numbers in a HashSet. I only started counting when the current numb
 
 # Total Problems Solved
 
-✅ 9 / 10
+✅ 8 / 10
 
-> **Note:** I completed all required Arrays & Hashing problems except **4Sum**, which I plan to solve next.
+> **Note:** I completed all required Arrays & Hashing problems except **4Sum** and "Find the Difference of 2 arrays", which I plan to solve next.
