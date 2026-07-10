@@ -86,22 +86,31 @@ I stored all numbers in a HashSet. I only started counting when the current numb
 
 ### Space Complexity: O(n)
 
----
-
+--
 # Patterns Learned
 
 - HashMap
+  - Used in Two Sum and Subarray Sum Equals K for fast lookup and storing frequencies.
+
 - HashSet
-- Prefix Sum
-- Two-Pass Array
+  - Used in Contains Duplicate and Longest Consecutive Sequence to store unique elements and perform quick lookups.
+
 - One-Pass Array
+  - Used in Best Time to Buy and Sell Stock.
+
+- Two-Pass Array
+  - Used in Product of Array Except Self.
+
+- Prefix Sum
+  - Used in Subarray Sum Equals K.
+
 - Kadane's Algorithm
-- Sorting
-- Greedy
-- Two Pointers
+  - Used in Maximum Subarray.
+
+- Sorting + Greedy
+  - Used in Merge Intervals.
 
 # Total Problems Solved
 
 ✅ 8 / 10
-
-> **Note:** I completed all required Arrays & Hashing problems except **4Sum** and "Find the Difference of 2 arrays", which I plan to solve next.
+ **Note:** I completed all required Arrays & Hashing problems except **4Sum** and "Find the Difference of 2 arrays", which I plan to solve next.
