@@ -21,11 +21,11 @@ Arrays & Hashing
 
 ## Completed
 
-- ✅ Two Sum
-- ✅ Contains Duplicate
-- ✅ Best Time to Buy and Sell Stock
-- ✅ Product of Array Except Self
-- ✅ Maximum Subarray
-- ✅ Merge Intervals
-- ✅ Longest Consecutive Sequence
-- ✅ Subarray Sum Equals K
+- Two Sum
+- Contains Duplicate
+- Best Time to Buy and Sell Stock
+- Product of Array Except Self
+- Maximum Subarray
+- Merge Intervals
+- Longest Consecutive Sequence
+-  Subarray Sum Equals K
