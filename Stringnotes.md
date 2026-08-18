@@ -61,12 +61,3 @@ Most solutions were designed with efficient time complexity, generally **O(n)**,
 
 **C++**
 
-## Goal
-
-Complete at least **6 out of 9** problems and become comfortable with:
-
-- Reversing strings
-- Merging strings
-- Scanning strings with two pointers
-- Using stacks for parsing
-- Applying common string problem patterns
